@@ -23,7 +23,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,django,bootstrap,html,css,vscode,github,git,figma,tailwind,postman,vercel,redux" />
+    <img src="https://skillicons.dev/icons?i=react,django,bootstrap,tailwind,html,css,vscode,github,git,figma,postman,vercel,redux" />
     <img src="https://skillicons.dev/icons?i=python,javascript,java,postgresql" /><br>
 </div>
 
